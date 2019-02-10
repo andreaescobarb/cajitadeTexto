@@ -1,0 +1,12 @@
+body {
+  margin: 10%;
+  padding: 5%;
+  background-color: lightpink;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
